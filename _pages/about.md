@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "石家庄铁道大学宋天放"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+   大家好，我是宋天放。我是一名热爱技术的软件工程师。我拥有计算机科学学士学位，并且在软件开发行业有多年的工作经验。
+我的主要专长是Web开发和前端技术，我熟悉常用的编程语言如JavaScript、HTML和CSS，并且熟练使用各种前端框架和库，如React和Angular。
+我还具备全栈开发的能力，熟悉后端开发技术和数据库管理。我熟练使用Java和Python等编程语言，并且有经验使用Spring框架和Django框架进行后端开发。
+我喜欢研究创新的技术解决方案，并且保持对最新技术的学习和了解。我有良好的问题解决能力和团队合作精神，能够与不同背景和技能的人合作，并且在高压环境下保持高效率和积极性。
+除了技术方面，我也注重个人发展和平衡生活。我热爱音乐和运动，喜欢弹吉他和打篮球。我还喜欢阅读和旅行，通过探索不同的文化和思维方式来扩大自己的视野。
+如果您对我的技能和经验感兴趣，欢迎与我联系。我期待能够为您的项目带来价值并与您一起取得成功！
